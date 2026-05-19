@@ -65,7 +65,7 @@ License: GPL v3 https://www.gnu.org/licenses/gpl-3.0
 
 ## 🚀 Download
 
-Get the latest release from the [Releases page](https://github.com/AntiRAT/WREART/releases).
+Get the latest release from the [Releases page](https://github.com/Antiratnik/WREART/releases).
 
 No installation required — just run the `.exe` as Administrator.
 
