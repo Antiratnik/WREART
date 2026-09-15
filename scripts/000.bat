@@ -1,4 +1,4 @@
-chcp 65001
+chcp 65001 >nul
 @echo off
 title Антират - Удаление 000.exe
 echo [1/1] Удаляю rniw.exe из автозагрузки...
